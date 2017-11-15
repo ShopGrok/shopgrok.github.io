@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to the GitHub repo for the ShopGrok blog
 
-You can use the [editor on GitHub](https://github.com/ShopGrok/shopgrok.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**_grok_** ~ to understand intuitively or by empathy (coined by Robert A. Heinlein in his seminal 1961 novel [Stranger in a Strange Land](https://www.amazon.com/Stranger-Strange-Land-Science-Fiction/dp/034093834X/ref=pd_lpo_sbs_14_t_1/139-4103197-5182466?_encoding=UTF8&psc=1&refRID=9NERGHE0ZT9KSC0SVJ8D)).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ShopGrok is the intelligent shopping companion that saves savvy grocery shoppers time and money.
 
-### Markdown
+Launching first in Australia in 2018 - stay tuned!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Track your grocery spend
 
-```markdown
-Syntax highlighted code block
+ShopGrok automatically organises your grocery spending into categories like fresh produce & meat, household staples and cheeky impulse buys (shhh!) – showing you where your money is being spent, and **helping you set a budget**.
 
-# Header 1
-## Header 2
-### Header 3
+### Save time and never forget an item
 
-- Bulleted
-- List
+ShopGrok's **intelligent shopping list** learns which products you love and how often you buy them, and can **autofill your basket** based on your previous shopping history, or recommend cheaper options.
 
-1. Numbered
-2. List
+### Shop around without the hassle
 
-**Bold** and _Italic_ and `Code` text
+ShopGrok determines which supermarket is cheapest and lets you switch retailers or split your shop to maximise your savings. It stores all of your weekly specials and personalised offers across all major retailers - ensuring that you **maximise your rewards**.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ShopGrok/shopgrok.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Visit our public website at [www.shop-grok.com](https://goo.gl/Nt5NpW) to register for updates on our launch!
