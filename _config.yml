@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: hello@shop-grok.com 
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
